@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ortalmadevamsizlik\ortalmadevamsizlik\bin\Debug\ortalmadevamsizlik.exe.config
+C:\Users\User\source\repos\ortalmadevamsizlik\ortalmadevamsizlik\bin\Debug\ortalmadevamsizlik.exe
+C:\Users\User\source\repos\ortalmadevamsizlik\ortalmadevamsizlik\bin\Debug\ortalmadevamsizlik.pdb
+C:\Users\User\source\repos\ortalmadevamsizlik\ortalmadevamsizlik\obj\Debug\ortalmadevamsizlik.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ortalmadevamsizlik\ortalmadevamsizlik\obj\Debug\ortalmadevamsizlik.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ortalmadevamsizlik\ortalmadevamsizlik\obj\Debug\ortalmadevamsizlik.Form1.resources
+C:\Users\User\source\repos\ortalmadevamsizlik\ortalmadevamsizlik\obj\Debug\ortalmadevamsizlik.Properties.Resources.resources
+C:\Users\User\source\repos\ortalmadevamsizlik\ortalmadevamsizlik\obj\Debug\ortalmadevamsizlik.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ortalmadevamsizlik\ortalmadevamsizlik\obj\Debug\ortalmadevamsizlik.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ortalmadevamsizlik\ortalmadevamsizlik\obj\Debug\ortalmadevamsizlik.exe
+C:\Users\User\source\repos\ortalmadevamsizlik\ortalmadevamsizlik\obj\Debug\ortalmadevamsizlik.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ortalmadevamsizlik", "ortalmadevamsizlik\ortalmadevamsizlik.csproj", "{8AB81FB2-84D0-4A63-A7D6-B0D13A9B38DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB81FB2-84D0-4A63-A7D6-B0D13A9B38DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB81FB2-84D0-4A63-A7D6-B0D13A9B38DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB81FB2-84D0-4A63-A7D6-B0D13A9B38DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB81FB2-84D0-4A63-A7D6-B0D13A9B38DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2796BEE-AA55-4810-80DA-0497CAEC7F7C}
+	EndGlobalSection
+EndGlobal
